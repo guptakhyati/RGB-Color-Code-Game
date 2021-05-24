@@ -1,0 +1,57 @@
+html body {
+	background-color: black;
+}
+body .container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+.square{
+	padding-bottom:30%; 
+	width:30%;
+	margin:1.66%;
+	background:purple;
+	float:left;
+	border-radius: 25px;
+}
+.header{
+	color:white;
+	background-color: rgb(32, 178, 170);
+	font-size: 50px;
+}
+.div{
+	background-color: white;
+}
+#correct_incorrect{
+	display: inline-block;
+	margin: 0;
+}
+.easy{
+	display: inline-block;
+	margin-left: 100px;
+}
+.hard{
+	display: :inline-block;
+	margin-left: 200px;
+}
+button{
+	border: none;
+	background: none;
+}
+/*.container{
+	text-align: center;
+}*/
+#reset{
+	margin-left: 75px;
+	font-family: cursive;
+	font-size: 20px;
+}
+#easy{
+	margin-left: 150px;
+	font-family: cursive;
+	font-size: 20px;
+}
+#hard{
+	font-family: cursive;
+	font-size: 20px;
+
+}
